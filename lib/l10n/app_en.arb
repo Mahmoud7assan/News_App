@@ -1,0 +1,17 @@
+{
+"newsapp":"NewsApp",
+"settings":"Settings",
+"category":"Category",
+"search":"Search",
+"sports":"Sports",
+"politics":"Politics",
+"health":"Health",
+"business":"Business",
+"environment":"Environment",
+"science":"Science",
+"technology":"Technology",
+"pick":"Pick your category of interest",
+"language":"Language",
+"english":"English",
+"arabic":"Arabic"
+}
